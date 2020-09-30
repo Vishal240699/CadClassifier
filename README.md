@@ -1,13 +1,13 @@
 OS: Windows/Linux/macOS
 All codes are written in Python and can be executed in Jupyter notebook
 Packages:
-matplotlib 3.0.2
-pandas 0.23.4
-Keras 2.2.4
-NumPy 1.15.2
-seaborn 0.9.0
-scikit-learn 0.20.2
-Piexif 1.1.2
+  matplotlib 3.0.2  
+  pandas 0.23.4
+  Keras 2.2.4
+  NumPy 1.15.2
+  seaborn 0.9.0
+  scikit-learn 0.20.2
+  Piexif 1.1.2
 
 
 The project was done as the first step towards Neural Networks.
